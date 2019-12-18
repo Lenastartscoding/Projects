@@ -3,4 +3,4 @@ Projects worked on during the Data Analytics Bootcamp at Ironhack with the goal 
 data cleaning, manipulation, visualization and machine learning.
 
 UPDATE:
-Medical Appointments Project will be uploaded by Dec 17th.
+Medical Appointments Project will be uploaded by Dec 19th.
